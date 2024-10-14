@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aditya-Chapele" alt="Aditya-Chapele" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Aditya-Chapele" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya-Chapele?logo=twitter&style=for-the-badge" alt="[Aditya-Chapele](https://x.com/Aditya_2213)" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Aditya-Chapele" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya-Chapele?logo=twitter&style=for-the-badge" alt="https://x.com/Aditya_2213" /></a> </p>
 
 - 🔭 I’m currently working on **React-based projects**
 
