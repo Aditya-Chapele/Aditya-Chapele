@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aditya-Chapele" alt="Aditya-Chapele" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Aditya-Chapele" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya-Chapele?logo=twitter&style=for-the-badge" alt="https://x.com/Aditya_2213" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Aditya_2213" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya-Chapele?logo=twitter&style=for-the-badge" alt="https://x.com/Aditya_2213" /></a> </p>
 
 - 🔭 I’m currently working on **React-based projects**
 
@@ -20,13 +20,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-chapele933b72250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-chapele933b72250/" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/_aditya2213/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-chapele933b72250/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
+<a href="https://www.instagram.com/_aditya2213/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 
-<a href="https://www.leetcode.com/https://leetcode.com/u/Aditya_2213//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Aditya_2213/" height="30" width="40" /></a>
+<a href="https://twitter.com/Aditya_2213" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Aditya_2213/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
 
 </p>
 
