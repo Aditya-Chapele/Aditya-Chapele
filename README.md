@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Aditya_2213" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya_2213?logo=twitter&style=for-the-badge" alt="Aditya_2213" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Blockchain Development and Cloud Computing.**
+- 🌱 I’m currently learning **Machine Learning, Blockchain Development <br> and Cloud Computing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya-Chapele/](https://github.com/Aditya-Chapele/)
 
