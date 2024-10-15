@@ -1,4 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://adityac.vercel.app/)
+<div style="text-align: center;">
+  <a href="https://adityac.vercel.app/">
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="MasterHead" style="width: 80%; margin-left: 10%;" />
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Aditya Chapele</h1>
 <h3 align="center">I build easy-to-use software, dynamic websites, and machine learning models that deliver great experiences. With a focus on design and smooth functionality, I’m all about creating solutions that make a lasting impact.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*SazB8drLx74W-bFBqag9zA.gif">
