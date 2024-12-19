@@ -4,7 +4,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Aditya Chapele</h1>
-<h3 align="center">I build easy-to-use software, dynamic websites, and machine learning models that deliver great experiences. With a focus on design and smooth functionality, I’m all about creating solutions that make a lasting impact.</h3>
+<h3 align="center">I create user-friendly software, dynamic websites, and smart machine learning models. With a focus on UI/UX design and smooth functionality, I aim to build solutions that are practical, efficient, and leave a positive impact.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya-Chapele&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Chapele" /> </p>
